@@ -1,1 +1,2 @@
-pytest -v --browser chrome --html=Reports/orangeHRM_login_015.html --alluredir=Allure_Reports
+pytest -v --browser chrome --html=Reports/orangeHRM_login_015.html --alluredir=Allure_Reports8thFeb
+
