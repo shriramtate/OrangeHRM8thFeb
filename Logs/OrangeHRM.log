@@ -1,0 +1,83 @@
+2026-02-08 02:16:37,257 - INFO - test_verify_url - 28 - Navigating to OrangeHRM Login Page
+2026-02-08 02:16:43,575 - INFO - test_verify_url - 30 - OrangeHRM Login Page loaded successfully
+2026-02-08 02:16:43,753 - INFO - test_verify_url - 32 - OrangeHRM Login Page Title Verified
+2026-02-08 02:16:50,732 - INFO - test_verify_url - 34 - Screenshot saved successfully
+2026-02-08 02:16:50,735 - INFO - test_verify_url - 42 - Test Completed
+2026-02-08 02:16:50,735 - INFO - test_verify_url - 43 - =============================================================
+2026-02-08 02:16:50,746 - INFO - test_verify_login_002 - 57 - Navigating to OrangeHRM Login Page
+2026-02-08 02:16:51,532 - INFO - test_verify_login_002 - 59 - OrangeHRM Login Page loaded successfully
+2026-02-08 02:16:51,566 - INFO - test_verify_login_002 - 61 - Entering Username
+2026-02-08 02:16:52,486 - INFO - test_verify_login_002 - 63 - Entering Password
+2026-02-08 02:16:52,930 - INFO - test_verify_login_002 - 66 - Clicking Login Button
+2026-02-08 02:16:58,830 - INFO - test_verify_login_002 - 68 - Login Successful
+2026-02-08 02:16:59,094 - INFO - test_verify_login_002 - 70 - Screenshot saved successfully
+2026-02-08 02:16:59,189 - INFO - test_verify_login_002 - 78 - Login Test Completed
+2026-02-08 02:16:59,189 - INFO - test_verify_login_002 - 79 - =============================================================
+2026-02-08 03:55:00,682 - INFO - test_login_DDT_003 - 20 - Navigating to OrangeHRM Login Page
+2026-02-08 03:57:21,629 - INFO - test_login_DDT_003 - 20 - Navigating to OrangeHRM Login Page
+2026-02-08 04:01:56,099 - INFO - test_login_DDT_003 - 20 - Navigating to OrangeHRM Login Page
+2026-02-08 04:06:35,798 - INFO - test_login_DDT_003 - 20 - Navigating to OrangeHRM Login Page
+2026-02-08 04:09:10,317 - INFO - test_login_DDT_003 - 20 - Navigating to OrangeHRM Login Page
+2026-02-08 11:01:58,263 - INFO - test_login_DDT_003 - 20 - Navigating to OrangeHRM Login Page
+2026-02-08 11:04:47,230 - INFO - test_login_DDT_003 - 20 - Navigating to OrangeHRM Login Page
+2026-02-08 12:28:10,693 - INFO - test_login_DDT_003 - 21 - Navigating to OrangeHRM Login Page
+2026-02-08 12:55:10,875 - INFO - test_login_DDT_003 - 21 - Navigating to OrangeHRM Login Page
+2026-02-08 13:10:08,036 - INFO - test_verify_url - 28 - Navigating to OrangeHRM Login Page
+2026-02-08 13:11:00,783 - INFO - test_verify_url - 30 - OrangeHRM Login Page loaded successfully
+2026-02-08 13:11:00,794 - INFO - test_verify_url - 32 - OrangeHRM Login Page Title Verified
+2026-02-08 13:11:00,909 - INFO - test_verify_url - 34 - Screenshot saved successfully
+2026-02-08 13:11:00,909 - INFO - test_verify_url - 42 - Test Completed
+2026-02-08 13:11:00,909 - INFO - test_verify_url - 43 - =============================================================
+2026-02-08 13:11:00,937 - INFO - test_verify_login_002 - 57 - Navigating to OrangeHRM Login Page
+2026-02-08 13:11:05,305 - INFO - test_verify_login_002 - 59 - OrangeHRM Login Page loaded successfully
+2026-02-08 13:11:05,305 - INFO - test_verify_login_002 - 61 - Entering Username
+2026-02-08 13:11:07,382 - INFO - test_verify_login_002 - 63 - Entering Password
+2026-02-08 13:11:07,656 - INFO - test_verify_login_002 - 66 - Clicking Login Button
+2026-02-08 13:11:14,312 - INFO - test_verify_login_002 - 68 - Login Successful
+2026-02-08 13:11:14,589 - INFO - test_verify_login_002 - 70 - Screenshot saved successfully
+2026-02-08 13:11:14,590 - INFO - test_verify_login_002 - 78 - Login Test Completed
+2026-02-08 13:11:14,590 - INFO - test_verify_login_002 - 79 - =============================================================
+2026-02-08 13:53:51,798 - INFO - test_login_DDT_003 - 21 - Navigating to OrangeHRM Login Page
+2026-02-08 15:56:40,916 - INFO - test_login_DDT_003 - 21 - Navigating to OrangeHRM Login Page
+2026-02-08 16:03:37,903 - INFO - test_login_DDT_003 - 21 - Navigating to OrangeHRM Login Page
+2026-02-08 16:13:45,301 - INFO - test_login_DDT_003 - 21 - Navigating to OrangeHRM Login Page
+2026-02-08 16:13:45,301 - INFO - test_login_DDT_003 - 22 - Excel File: .\TestData\OrangeHRM_DDT.xlsx
+2026-02-08 16:13:45,302 - INFO - test_login_DDT_003 - 23 - Counting max Rows
+2026-02-08 16:13:45,315 - INFO - test_login_DDT_003 - 26 - Entering For loop of checking each row credentials
+2026-02-08 16:13:56,921 - INFO - test_login_DDT_003 - 33 - Entering Username: Admin
+2026-02-08 16:13:58,336 - INFO - test_login_DDT_003 - 35 - Entering Password: admin123
+2026-02-08 16:13:58,625 - INFO - test_login_DDT_003 - 38 - Clicking Login Button
+2026-02-08 16:14:01,803 - INFO - test_login_DDT_003 - 41 - Login Successful
+2026-02-08 16:14:01,917 - INFO - test_login_DDT_003 - 43 - Clicking Menu Button
+2026-02-08 16:14:05,347 - INFO - test_login_DDT_003 - 45 - Clicking Logout Button
+2026-02-08 16:14:06,217 - INFO - test_login_DDT_003 - 33 - Entering Username: Admin1
+2026-02-08 16:14:07,103 - INFO - test_login_DDT_003 - 35 - Entering Password: admin123
+2026-02-08 16:14:07,340 - INFO - test_login_DDT_003 - 38 - Clicking Login Button
+2026-02-08 16:14:18,771 - INFO - test_login_DDT_003 - 48 - Login Failed
+2026-02-08 16:14:19,987 - INFO - test_login_DDT_003 - 33 - Entering Username: Admin
+2026-02-08 16:14:20,835 - INFO - test_login_DDT_003 - 35 - Entering Password: admin1234
+2026-02-08 16:14:22,939 - INFO - test_login_DDT_003 - 38 - Clicking Login Button
+2026-02-08 16:14:32,961 - INFO - test_login_DDT_003 - 48 - Login Failed
+2026-02-08 16:14:34,454 - INFO - test_login_DDT_003 - 33 - Entering Username: Admin1
+2026-02-08 16:14:35,153 - INFO - test_login_DDT_003 - 35 - Entering Password: admn
+2026-02-08 16:14:35,377 - INFO - test_login_DDT_003 - 38 - Clicking Login Button
+2026-02-08 16:14:46,562 - INFO - test_login_DDT_003 - 48 - Login Failed
+2026-02-08 16:14:46,662 - INFO - test_login_DDT_003 - 60 - Checking if any test case failed
+2026-02-08 16:14:46,662 - INFO - test_login_DDT_003 - 62 - All test cases passed
+2026-02-08 16:14:46,663 - INFO - test_login_DDT_003 - 63 - Test Case Completed
+2026-02-08 16:14:46,663 - INFO - test_login_DDT_003 - 64 - =============================================================
+2026-02-08 16:14:51,552 - INFO - test_verify_url - 28 - Navigating to OrangeHRM Login Page
+2026-02-08 16:14:59,254 - INFO - test_verify_url - 30 - OrangeHRM Login Page loaded successfully
+2026-02-08 16:14:59,266 - INFO - test_verify_url - 32 - OrangeHRM Login Page Title Verified
+2026-02-08 16:14:59,408 - INFO - test_verify_url - 34 - Screenshot saved successfully
+2026-02-08 16:14:59,456 - INFO - test_verify_url - 42 - Test Completed
+2026-02-08 16:14:59,456 - INFO - test_verify_url - 43 - =============================================================
+2026-02-08 16:14:59,464 - INFO - test_verify_login_002 - 57 - Navigating to OrangeHRM Login Page
+2026-02-08 16:15:00,314 - INFO - test_verify_login_002 - 59 - OrangeHRM Login Page loaded successfully
+2026-02-08 16:15:00,315 - INFO - test_verify_login_002 - 61 - Entering Username
+2026-02-08 16:15:01,672 - INFO - test_verify_login_002 - 63 - Entering Password
+2026-02-08 16:15:01,953 - INFO - test_verify_login_002 - 66 - Clicking Login Button
+2026-02-08 16:15:04,850 - INFO - test_verify_login_002 - 68 - Login Successful
+2026-02-08 16:15:05,047 - INFO - test_verify_login_002 - 70 - Screenshot saved successfully
+2026-02-08 16:15:05,050 - INFO - test_verify_login_002 - 78 - Login Test Completed
+2026-02-08 16:15:05,051 - INFO - test_verify_login_002 - 79 - =============================================================
