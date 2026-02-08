@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d827dbba-79a6-400d-9e3a-f43ce739d848" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/3f00222d-0d67-41f5-8e3c-bbe2b366ecde-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/7212008f-967f-44e3-9a32-a14a791808f5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/73ccb650-2b52-4013-896d-d74e73de7658-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/85d7ed8c-f232-4911-ad06-8fffa81badd5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/8e2ee7b7-f748-42d9-99a8-19bca0d04b96-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/9da8d89a-0eea-4c57-a77e-63fd68f6773c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/aebf1b7a-3266-4e0e-95f2-0599a43e2eb6-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/d400c562-0fe8-40fc-bd47-54585c57f94e-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/ddefafbf-42be-4d2e-bca5-fd4c25feb2a6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/e23277ba-c225-4f6e-86fb-39da415cc114-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Allure_Reports/f1267950-663d-4326-89d0-f20631301c16-attachment.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +37,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dev.sweep.assistant.data.RecentlyUsedFiles": "testCases\\test_orangeHRM_login_001.py;testCases\\test_OrangeHRM_Login_DDT.py;Logs\\OrangeHRM.log;PageObjects\\Login_Page.py;testCases\\conftest.py;utilities\\pytest.ini;Configurations\\config.ini;Logs\\CredKart.log;utilities\\XLutils.py;utilities\\readConfig.py",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "sweep.chatMode": "Agent"
   }
