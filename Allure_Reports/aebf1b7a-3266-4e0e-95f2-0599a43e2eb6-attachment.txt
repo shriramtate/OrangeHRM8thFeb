@@ -1,9 +1,0 @@
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:57 Navigating to OrangeHRM Login Page
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:59 OrangeHRM Login Page loaded successfully
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:61 Entering Username
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:63 Entering Password
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:66 Clicking Login Button
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:68 Login Successful
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:70 Screenshot saved successfully
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:78 Login Test Completed
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:79 =============================================================

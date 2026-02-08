@@ -1,7 +1,0 @@
-[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The chromedriver version (143.0.7499.169) detected in PATH at C:\webdrivers\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.133); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:28 Navigating to OrangeHRM Login Page
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:30 OrangeHRM Login Page loaded successfully
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:32 OrangeHRM Login Page Title Verified
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:34 Screenshot saved successfully
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:42 Test Completed
-[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_orangeHRM_login_001.py:test_orangeHRM_login_001.py:43 =============================================================
