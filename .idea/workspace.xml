@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d827dbba-79a6-400d-9e3a-f43ce739d848" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dev.sweep.assistant.data.RecentlyUsedFiles": "testCases\\test_orangeHRM_login_001.py;testCases\\test_OrangeHRM_Login_DDT.py;Logs\\OrangeHRM.log;PageObjects\\Login_Page.py;testCases\\conftest.py;utilities\\pytest.ini;Configurations\\config.ini;Logs\\CredKart.log;utilities\\XLutils.py;utilities\\readConfig.py",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "sweep.chatMode": "Agent"
   }
