@@ -24,7 +24,19 @@ def driver_setup(request):
         driver = None
         print("Invalid Browser")
 
+    driver.maximize_window()
     driver.implicitly_wait(10)
     request.cls.driver = driver
-    yield driver
+    yield
     driver.quit()
+
+
+#Test Data
+@pytest.fixture(params = [
+    ("Admin", "admin123", "login_pass"), # All correct #
+    ("Admin1", "admin123", "login_fail"), # username wrong #
+    ("Admin", "admin1234", "login_fail"), # password wrong
+    ("Admin1", "admin1234", "login_fail")  # username and password wrong
+])
+def Orange_HRM_login_data(request):
+    return request.param

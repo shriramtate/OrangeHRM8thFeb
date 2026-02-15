@@ -1,0 +1,8 @@
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:29 OrangeHRM Login Page Title Verified
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:38 Clicking Login Button
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:54 Login Failed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:58 Login Verification Failed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:61 Login Verification Passed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:64 Test Case Passed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:72 Login Test Completed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:73 =============================================================

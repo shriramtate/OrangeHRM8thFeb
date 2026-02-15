@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d827dbba-79a6-400d-9e3a-f43ce739d848" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/testCases/test_OrangeHRM_params_004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/OrangeHRM.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/OrangeHRM.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObjects/Login_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjects/Login_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/orangeHRM_login_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/orangeHRM_login_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/OrangeHRM_DDT.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/OrangeHRM_DDT.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dev.sweep.assistant.data.RecentlyUsedFiles": "testCases\\test_orangeHRM_login_001.py;testCases\\test_OrangeHRM_Login_DDT.py;Logs\\OrangeHRM.log;PageObjects\\Login_Page.py;testCases\\conftest.py;utilities\\pytest.ini;Configurations\\config.ini;Logs\\CredKart.log;utilities\\XLutils.py;utilities\\readConfig.py",
+    "RunOnceActivity.git.unshallow": "true",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "testCases\\test_OrangeHRM_params_004.py;Reports\\orangeHRM_login_param01.html;testCases\\test_orangeHRM_login_001.py;utilities\\logger.py;testCases\\conftest.py;PageObjects\\Login_Page.py;Logs\\OrangeHRM.log;testCases\\test_OrangeHRM_Login_DDT.py;Configurations\\config.ini;utilities\\pytest.ini",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "sweep.chatMode": "Agent"

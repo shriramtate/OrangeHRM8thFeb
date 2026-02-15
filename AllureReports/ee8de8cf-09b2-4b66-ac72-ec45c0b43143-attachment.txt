@@ -1,0 +1,12 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The chromedriver version (143.0.7499.169) detected in PATH at C:\webdrivers\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.133); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:29 OrangeHRM Login Page Title Verified
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:38 Clicking Login Button
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:41 Login Successful
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:43 Screenshot saved successfully
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:46 Clicking Menu
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:48 Clicking Logout
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:51 Login Verification Passed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:61 Login Verification Passed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:64 Test Case Passed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:72 Login Test Completed
+[32mINFO    [0m F:\CREDENCE\CT24\PROJECT PRACTICE\OrangeHRM\testCases\test_OrangeHRM_params_004.py:test_OrangeHRM_params_004.py:73 =============================================================

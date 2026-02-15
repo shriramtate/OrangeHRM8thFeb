@@ -33,6 +33,6 @@ class login_page_class:
     def verify_login(self):
         try:
             self.driver.find_element(By.XPATH, self.click_menu_XPATH)
-            return "Login Successful"
+            return "login_pass"
         except:
-            return "Login Failed"
+            return "login_fail"
